@@ -1,4 +1,5 @@
 # RSUBasedSecurityForPlatooning_Demo
+This repository contains video demonstrations of the experiments done in our work titled ["Optimizing RSU Placements for Securing Vehicle Platoon Against False Data Injection Attacks"](https://dl.acm.org/doi/10.1145/3576841.3589621).
 
 ## 1. A 4-Vehicle Platoon
 The video below demonstrates a simulation of a platoon consisting of 4 vehicles crusing along a 4 lane highway using DSRC communication protocol and equipped with CACC controller. The setup consists of SUMO and OMNeT++ simulators. SUMO is an open source road traffic simulator that models and visuializes road traffic in uban scenario. OMNeT++ is a network simulator that contains the necessary network protocol libraries for wireless communication. Additionally, for cooperative driving such as platooning using the DSRC communication, we use Veins and Plexe libraries for OMNeT++.
@@ -20,3 +21,21 @@ The video below demostrates RSU-based attack detection and mitigation for platoo
 
 https://user-images.githubusercontent.com/85755568/220276447-df5ddd01-8891-4ef9-a966-2d3f83015876.mp4
 
+## Citation
+```shell
+@inproceedings{OptRSUplacement,
+author = {Roy, Anik and Koley, Ipsita and Adhikary, Sunandan and Dey, Soumyajit},
+title = {Optimizing RSU Placements for Securing Vehicle Platoon Against False Data Injection Attacks},
+year = {2023},
+isbn = {9798400700361},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3576841.3589621},
+doi = {10.1145/3576841.3589621}
+booktitle = {Proceedings of the ACM/IEEE 14th International Conference on Cyber-Physical Systems (with CPS-IoT Week 2023)},
+pages = {251–252},
+numpages = {2},
+location = {San Antonio, TX, USA},
+series = {ICCPS '23}
+}
+```
