@@ -21,7 +21,7 @@ The video below demostrates RSU-based attack detection and mitigation for platoo
 
 https://user-images.githubusercontent.com/85755568/220276447-df5ddd01-8891-4ef9-a966-2d3f83015876.mp4
 
-### Poster
+## Poster
 
 <img width="3780" height="2835" alt="AnikRoy_ICCPS_23_posterFinal (1)-1" src="https://github.com/user-attachments/assets/6f627525-92bc-4c65-9873-c68edd199cd0" />
 
